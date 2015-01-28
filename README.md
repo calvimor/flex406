@@ -1,2 +1,2 @@
 # flex406
-Web template html, css
+Responsvie Web template html, css, js
